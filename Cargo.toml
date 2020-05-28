@@ -56,6 +56,10 @@ path = "src/in-depth/signals-hooked.rs"
 name = "signals-channels"
 path = "src/in-depth/signals-channels.rs"
 
+[[bin]]
+name = "signals-channels-double"
+path = "src/in-depth/signals-channels-double.rs"
+
 [workspace]
 members = [
     "src/tutorial/testing",
